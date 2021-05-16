@@ -1,3 +1,3 @@
-module github.com/kycklingar/sqh
+module github.com/kycklingar/sqhell
 
 go 1.16
